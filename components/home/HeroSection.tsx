@@ -71,7 +71,7 @@ export function HeroSection() {
       <Link
         href="#services"
         aria-label="Ga naar onze diensten"
-        className="absolute right-10 bottom-8 hidden h-12 w-8 rounded-full border border-white/30 lg:block"
+        className="absolute bottom-8 left-1/2 hidden h-12 w-8 -translate-x-1/2 rounded-full border border-white/30 lg:block"
       >
         <span className="absolute top-2.5 left-3.5 h-2.5 w-0.5 animate-[scroll-cue_1.7s_infinite] bg-white" />
       </Link>
