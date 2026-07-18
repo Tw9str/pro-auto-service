@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 62" role="img" aria-label="Pro Auto Service">
+  <g font-family="Arial, Helvetica, sans-serif" font-size="39" font-style="italic" font-weight="900" letter-spacing="-.5" paint-order="stroke fill" stroke="#050608" stroke-width="1.1" stroke-linejoin="round">
+    <text x="5" y="39" fill="#ed1b2f">PRO</text>
+    <text x="112" y="39" fill="#f5f7f8" letter-spacing="1.5">AUTO</text>
+  </g>
+  <g aria-hidden="true">
+    <path d="M7 53h86" stroke="#ed1b2f" stroke-width="2"/>
+    <path d="M218 53h75" stroke="#596069"/>
+    <text x="108" y="57" fill="#b6bac0" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="6.5">SERVICE</text>
+  </g>
+</svg>
